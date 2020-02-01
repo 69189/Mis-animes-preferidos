@@ -4,6 +4,9 @@ body {
 
 .anime{
   color: aqua;
+  background-color: blue;
+  padding: 10px;
+  text-align: center;
 }
 
 h3 {
