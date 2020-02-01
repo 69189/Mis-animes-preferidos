@@ -2,10 +2,13 @@ body {
   background-color: black;
 }
 
-.anime {
-  color: blue ;
+.anime{
+  color: aqua;
 }
 
 h3 {
 color:rgb(179, 182, 13);
+}
+.copyright {
+  color: antiquewhite;
 }
